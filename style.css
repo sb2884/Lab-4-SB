@@ -1,0 +1,44 @@
+#id1{
+    color: white;
+    background-color: blue;
+}
+.container{
+    background-color: lightgray;
+    color: black;
+}
+#id3{
+    color:red;
+}
+.para{
+    background-color: green;
+}
+.main-content{
+    background-color: yellow;
+}
+#id2{
+    text-align: center;
+}
+.href{
+    text-decoration:none;
+}
+.headers{
+    text-decoration: dashed underline;
+}
+.bold-text{
+    font-weight: bold;
+}
+#intro{
+    font-weight: 300;
+}
+#id4{
+    font-family: Arial,sans-serif;
+}
+.custom-font{
+    font-family: 'Times New Roman', serif;
+}
+.transform{
+    text-transform: uppercase;
+}
+.capitalize-text{
+    text-transform: capitalize;
+}
